@@ -1,8 +1,8 @@
-Written description on ServiceNow Ticket 
-* Logged into ServiceNow.
-* Created a new incident ticket.
-* Entered details such as issue description, category, and priority.
-* Saved and documented the ticket number
+# ServiceNow Incident Ticket Creation Process:
+* Accessed the ServiceNow platform by securely logging into the system.
+* Initiated the creation of a new incident ticket to document a reported issue.
+* Entered key incident details, including a clear issue description, appropriate category, and assigned priority level based on urgency and impact.
+* Saved the incident to the system, generating a unique ticket number for tracking and reference purposes.
 
 # Servicenow--Lab
 https://www.loom.com/share/7199139651964559bb1a6c35b635cfdc?sid=6f1aa0bc-ac8f-452e-a1b3-b13f151e9612
